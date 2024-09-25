@@ -1,6 +1,4 @@
 # Personaje2024
-## SOY SUBTITULO
-holaaaa
 ## Nombre del personaje
 Angel con Alas
 ## Creador
@@ -24,7 +22,23 @@ imagen del dibujo hecho a mano o edicion
 ## Videos
 
 ## Imagen de la captura de pantalla de los examenes de Cisco C
-Modulo 1
-<img src="![Imagen de WhatsApp 2024-09-24 a las 16 46 09_1b5c6eb7](https://github.com/user-attachments/assets/b37e18bf-51e4-4f92-8293-a39d6be0d4da)"width="90"/>
+## Modulo 1
+<img src="https://github.com/user-attachments/assets/b37e18bf-51e4-4f92-8293-a39d6be0d4da" width="700"/>
+
+## Modulo 2
+<img src="https://github.com/user-attachments/assets/96a72da6-9b3c-40c6-aaee-dc9655d658e9" width="700"/>
+
+## Modulo 3
+<img src="https://github.com/user-attachments/assets/003d6ada-8fa0-4a87-ad8d-5b9e1d9b7339" width="700"/>
+
+## Modulo 4
+<img src="https://github.com/user-attachments/assets/6bfbe8af-aa9f-4fd5-b67f-8a9064015908" width="700"/>
+
+## Modulo 5
+<img src="https://github.com/user-attachments/assets/ffa177d1-ba86-4663-b3f6-54dbb1420ba7" width="700"/>
+
+## Test Final
+<img src="https://github.com/user-attachments/assets/193c55cc-714f-486b-8ac1-b5e24b97bcf6" width="700"/>
+
 
 
