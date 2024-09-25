@@ -24,4 +24,7 @@ imagen del dibujo hecho a mano o edicion
 ## Videos
 
 ## Imagen de la captura de pantalla de los examenes de Cisco C
+Modulo 1
+<img src="![Imagen de WhatsApp 2024-09-24 a las 16 46 09_1b5c6eb7](https://github.com/user-attachments/assets/b37e18bf-51e4-4f92-8293-a39d6be0d4da)"width="90"/>
+
 
