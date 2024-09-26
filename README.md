@@ -18,6 +18,9 @@ Mi personaje al momento de que se acerca a 15centimetros una persona comienza a 
 imagen del dibujo hecho a mano o edicion
 
 ## Enlaces de la simulacion de WOKWI
+https://wokwi.com/projects/409768119781306369 
+## 
+https://wokwi.com/projects/410016547699474433
 
 ## Videos
 
