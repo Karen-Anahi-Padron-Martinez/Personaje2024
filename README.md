@@ -43,7 +43,8 @@ https://wokwi.com/projects/409768119781306369
 ## 
 https://wokwi.com/projects/410016547699474433
 
-## Videos
+## Video
+
 
 ## Imagen de la captura de pantalla de los examenes de Cisco C
 <img src="https://github.com/user-attachments/assets/fc5cb34e-9436-4b56-920c-8a0886d9b2fa" />
